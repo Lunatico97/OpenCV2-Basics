@@ -1,4 +1,5 @@
-# Reserved
-Reserved for the Param-Brahman
+# OpenCV2 Basics Using Python
+Using OpenCV2 and Python to perform image processing and classification !      
 
-!!! ACCESS RESTRICTED !!!
+- Library: pip3 install opencv2-python
+
